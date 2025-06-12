@@ -1,6 +1,10 @@
-Added By @sumedhx
+# Added By @sumedhx
+
+# System files
 .DS_Store
 
+# Backend uploads (prevent resume uploads from being committed)
+backend/uploads/
 
 # Logs
 logs
@@ -11,19 +15,21 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
+# Node
+node_modules/
+dist/
+dist-ssr/
 *.local
 
-# Editor directories and files
+# Editors
 .vscode/*
 !.vscode/extensions.json
-.idea
-.DS_Store
+.idea/
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+
+# Environment files
 .env
