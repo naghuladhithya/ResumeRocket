@@ -79,10 +79,6 @@ ResumeRocket solves these by automating resume analysis, job matching, and perso
    ```bash
    git clone https://github.com/naghuladhithya/ResumeRocket.git
    cd ResumeRocket
-<<<<<<< HEAD
-
-Devpost: https://devpost.com/software/942875?ref_content=user-portfolio&ref_feature=in_progress
-=======
    ```
    
 2. Setup Backend
