@@ -1,7 +1,7 @@
 # ResumeRocket 🚀
 
 Built for the PANDA x Mind The Gap Hackathon  
-Team Members: Naghul, [Add other names here]  
+Team Members: Naghul, @sumedhx, [Add other names here]  
 Tech Stack: Python, Streamlit, OpenAI, Pinecone, Serper.dev, Airtable, Zapier
 
 ---
