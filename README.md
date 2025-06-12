@@ -79,6 +79,17 @@ ResumeRocket solves these by automating resume analysis, job matching, and perso
    ```bash
    git clone https://github.com/naghuladhithya/ResumeRocket.git
    cd ResumeRocket
+   
+2. Setup Backend
+  ```bash
+    cd backend
+    pip install -r requirements.txt
+    uvicorn main:app --reload
 
+2. Setup Frontend
+  ```bash
+    cd frontend
+    npm install
+    npm run dev
 
 Devpost: https://devpost.com/software/942875?ref_content=user-portfolio&ref_feature=in_progress
