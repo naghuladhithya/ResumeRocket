@@ -95,4 +95,3 @@ ResumeRocket solves these by automating resume analysis, job matching, and perso
     npm run dev
   ```
 Devpost: https://devpost.com/software/942875?ref_content=user-portfolio&ref_feature=in_progress
->>>>>>> 27f2d5fba90d64ecd33c6f2c3db5d2520e476f18
